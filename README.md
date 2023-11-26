@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Estudiante en Escuela Superior Politécnica de Chimborazo
+Welcome to reality.⚡
+Life is only a murderous dream. 😌
 
 <!--
 **the-ppz/the-ppz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
