@@ -37,7 +37,7 @@
 
 ## Contacto
 
-Me puedes encontrarme en:
+Me puedes encontrar en:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@the_ppz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/the_ppz) <br>
 [![Instagram](https://img.shields.io/badge/Instagram-@the_ppz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/the_ppz/) <br>
