@@ -6,7 +6,7 @@
 
 - 📚 Estudiante de Ingeniería en Software.
 - 💻 En constante aprendizaje y mejora en el desarrollo de software.
-- 🌐 Interesado en tecnologías web, inteligencia artificial y ciencia de datos.
+- 🌐 Interesado en desarrollo web, inteligencia artificial y ciencia de datos.
 
 ## Habilidades
 
