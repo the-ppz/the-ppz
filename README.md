@@ -17,12 +17,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![PHP](https://img.shields.io/badge/PHP-blueviolet)
 ![Python](https://img.shields.io/badge/Python-green)
+![Pascal](https://img.shields.io/badge/Pascal-red)
 
 ### Tecnologías
 
 ![HTML](https://img.shields.io/badge/HTML-red)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![Django](https://img.shields.io/badge/Django-green)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-red)
 
 ### Bases de Datos
 
