@@ -19,11 +19,10 @@
 
 ¡Hablemos! Puedes encontrarme en las siguientes redes:
 
-- [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-tu@email.com-blue)](mailto:tu@email.com)
-- X: [@the_ppz](https://twitter.com/the_ppz)
-- Instagram: [@the_ppz](https://www.instagram.com/the_ppz/)
-- LinkedIn: [Franklin Alvarez](https://www.linkedin.com/in/franklin-alvarez-622347281/)
-- Correo Electrónico: franklin.alvarez20@outlook.com
+[![Twitter](https://img.shields.io/badge/Twitter-@the_ppz-blue)](https://twitter.com/the_ppz)
+[![Instagram](https://img.shields.io/badge/Instagram-@the_ppz-orange)](https://www.instagram.com/the_ppz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue)](https://www.linkedin.com/in/franklin-alvarez-622347281/)
+[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-franklin.alvarez20%40outlook.com-blue)](mailto:franklin.alvarez20@outlook.com)
 
 <!--
 ## Proyectos Destacados
