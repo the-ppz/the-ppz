@@ -43,7 +43,7 @@ Me puedes encontrar en:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@the_ppz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/the_ppz) <br> <br>
 [![Instagram](https://img.shields.io/badge/Instagram-@the_ppz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/the_ppz/) <br> <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/franklin-alvarez-622347281/) <br> <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/franklin-20-alvarez) <br> <br>
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-franklin.alvarez20%40outlook.com-blue?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:franklin.alvarez20@outlook.com)
 
 <!--
