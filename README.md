@@ -12,30 +12,34 @@
 
 ### Lenguajes
 
-![C++](https://img.shields.io/badge/C++-blue)
-![C#](https://img.shields.io/badge/C%23-purple)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-blueviolet)
-![Python](https://img.shields.io/badge/Python-green)
-![Pascal](https://img.shields.io/badge/Pascal-red)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tecnologías
 
-![HTML](https://img.shields.io/badge/HTML-red)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![Django](https://img.shields.io/badge/Django-green)
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-red)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Bases de Datos
 
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-orange)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Herramientas
 
-![Git](https://img.shields.io/badge/Git-black)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=whit)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## Contacto
 
@@ -80,5 +84,6 @@ Here are some ideas to get you started:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue)](https://www.linkedin.com/in/franklin-alvarez-622347281/)
 - [![Twitter](https://img.shields.io/badge/Twitter-@the_ppz-blue)](https://twitter.com/the_ppz)
 - [![Instagram](https://img.shields.io/badge/Instagram-@the_ppz-orange)](https://www.instagram.com/the_ppz/)
+https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
