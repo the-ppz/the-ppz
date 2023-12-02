@@ -46,12 +46,13 @@
 
 Me puedes encontrar en:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@the_ppz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/the_ppz) <br> <br>
-[![Instagram](https://img.shields.io/badge/Instagram-@the_ppz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/the_ppz/) <br> <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/franklin-20-alvarez) <br> <br>
+[![Twitter](https://img.shields.io/badge/Twitter-@the_ppz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/the_ppz) 
+[![Instagram](https://img.shields.io/badge/Instagram-@the_ppz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/the_ppz/) <br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/franklin-20-alvarez) <br>
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-franklin.alvarez20%40outlook.com-blue?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:franklin.alvarez20@outlook.com)
 
 <!--
+******************************************************************************************************************************************
 ## Proyectos Destacados
 
 ### [Nombre del Proyecto 1](enlace-al-proyecto-1)
@@ -61,30 +62,26 @@ Breve descripción del proyecto 1.
 ### [Nombre del Proyecto 2](enlace-al-proyecto-2)
 
 Breve descripción del proyecto 2.
+******************************************************************************************************************************************
 
+******************************************************************************************************************************************
 ## Contribuciones
 
 Destaco algunas de mis contribuciones a proyectos open source o colaborativos. ¡La comunidad es clave!
 
 - [Contribución 1](enlace-a-contribucion-1)
 - [Contribución 2](enlace-a-contribucion-2)
+******************************************************************************************************************************************
 
-**the-ppz/the-ppz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+******************************************************************************************************************************************
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue)](https://www.linkedin.com/in/franklin-alvarez-622347281/)
 - [![Twitter](https://img.shields.io/badge/Twitter-@the_ppz-blue)](https://twitter.com/the_ppz)
 - [![Instagram](https://img.shields.io/badge/Instagram-@the_ppz-orange)](https://www.instagram.com/the_ppz/)
+******************************************************************************************************************************************
+
+******************************************************************************************************************************************
+            Link iconos
 https://dev.to/envoy_/150-badges-for-github-pnk
+******************************************************************************************************************************************
 -->
 
