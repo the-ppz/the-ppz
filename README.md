@@ -10,19 +10,39 @@
 
 ## Habilidades
 
-- Lenguajes: C++, C#, JavaScript, PHP y Python.
-- Tecnologías: HTML, CSS, Django.
-- Bases de Datos: MySQL, PostgreSQL, SQL Server.
-- Herramientas: Git, VS Code.
+### Lenguajes
+
+![C++](https://img.shields.io/badge/C++-blue)
+![C#](https://img.shields.io/badge/C%23-purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-blueviolet)
+![Python](https://img.shields.io/badge/Python-green)
+
+### Tecnologías
+
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![Django](https://img.shields.io/badge/Django-green)
+
+### Bases de Datos
+
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-orange)
+
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-black)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue)
 
 ## Contacto
 
-¡Hablemos! Puedes encontrarme en las siguientes redes:
+Me puedes encontrarme en:
 
-- [![Twitter](https://img.shields.io/badge/Twitter-@the_ppz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/the_ppz)
-- [![Instagram](https://img.shields.io/badge/Instagram-@the_ppz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/the_ppz/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/franklin-alvarez-622347281/)
-- [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-franklin.alvarez20%40outlook.com-blue?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:franklin.alvarez20@outlook.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@the_ppz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/the_ppz) <br>
+[![Instagram](https://img.shields.io/badge/Instagram-@the_ppz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/the_ppz/) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/franklin-alvarez-622347281/) <br>
+[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-franklin.alvarez20%40outlook.com-blue?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:franklin.alvarez20@outlook.com)
 
 <!--
 ## Proyectos Destacados
