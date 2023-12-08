@@ -51,6 +51,9 @@ Me puedes encontrar en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/franklin-20-alvarez) <br>
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-franklin.alvarez20%40outlook.com-blue?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:franklin.alvarez20@outlook.com)
 
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ppz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 ******************************************************************************************************************************************
 ## Proyectos Destacados
