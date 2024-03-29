@@ -5,8 +5,8 @@
 ## Sobre mí
 
 - 📚 Estudiante de Ingeniería en Software.
-- 💻 En constante aprendizaje y mejora en el desarrollo de software.
-- 🌐 Interesado en desarrollo web, inteligencia artificial y ciencia de datos.
+- 💻 En constante aprendizaje y mejora en el Desarrollo de Software.
+- 🌐 Interesado en Desarrollo Web, Inteligencia Artificial y Ciencia de Datos.
 
 ## Habilidades
 
