@@ -1,10 +1,10 @@
 # ¡Hola! 👋 Soy Franklin
 
-¡Bienvenido a mi rincón en GitHub! Soy estudiante de Ingeniería en Software apasionado por el mundo del desarrollo.
+¡Bienvenido a mi rincón en GitHub! Soy Ingeniero de Software apasionado por el mundo del desarrollo.
 
 ## Sobre mí
 
-- 📚 Estudiante de Ingeniería en Software.
+- 📚 Ingeniero de Software.
 - 💻 En constante aprendizaje y mejora en el Desarrollo de Software.
 - 🌐 Interesado en Desarrollo Web, Inteligencia Artificial y Ciencia de Datos.
 
