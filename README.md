@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi rincón en GitHub! Soy Ingeniero de Software apasionado por construir soluciones innovadoras y eficientes. Este espacio lo uso para compartir proyectos, aprender y contribuir a la comunidad.
 
-🎯 **Objetivo:** Transformar ideas en código útil y eficiente, mientras me especializo en desarrollo web e inteligencia artificial.
+🎯 **Objetivo:** Transformar ideas en código útil y eficiente, mientras me especializo en desarrollo web.
 
 ## 🧑‍💻 Sobre mí
 
