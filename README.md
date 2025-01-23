@@ -1,6 +1,8 @@
 # ¡Hola! 👋 Soy Franklin
 
-¡Bienvenido a mi rincón en GitHub! Soy Ingeniero de Software apasionado por el mundo del desarrollo.
+¡Bienvenido a mi rincón en GitHub! Soy Ingeniero de Software apasionado por construir soluciones innovadoras y eficientes. Este espacio lo uso para compartir proyectos, aprender y contribuir a la comunidad.
+
+🎯 **Objetivo:** Transformar ideas en código útil y eficiente, mientras me especializo en desarrollo web e inteligencia artificial.
 
 ## Sobre mí
 
@@ -8,7 +10,18 @@
 - 💻 En constante aprendizaje y mejora en el Desarrollo de Software.
 - 🌐 Interesado en Desarrollo Web, Inteligencia Artificial y Ciencia de Datos.
 
-## Habilidades
+## 🚀 Proyectos Destacados
+
+### [SimpleCMS](#)
+Un sistema de gestión de contenidos para pequeñas empresas.
+
+### [EcoRuta Registro](#)
+Software de gestión de vehicular para el Ministerio de Ambiente, Agua y Transición Ecológica.
+
+### [Party Connect](#)
+Software de venta de voletos para eventos, fiestas, etc.
+
+## 🛠️ Habilidades Técnicas
 
 ### Lenguajes
 
@@ -46,7 +59,7 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-## Contacto
+## 📫 ¿Quieres colaborar?
 
 Me puedes encontrar en:
 
