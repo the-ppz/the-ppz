@@ -1,14 +1,13 @@
 # ¡Hola! 👋 Soy Franklin
 
-¡Bienvenido a mi rincón en GitHub! Soy Ingeniero de Software apasionado por construir soluciones innovadoras y eficientes. Este espacio lo uso para compartir proyectos, aprender y contribuir a la comunidad.
-
-🎯 **Objetivo:** Transformar ideas en código útil y eficiente, mientras me especializo en desarrollo web.
+Ingeniero de Software apasionado por construir soluciones innovadoras y eficientes. Este espacio lo uso para compartir proyectos, aprender y contribuir a la comunidad.
 
 ## 🧑‍💻 Sobre mí
 
-- 📚 Ingeniero de Software.
-- 💻 En constante aprendizaje y mejora en el Desarrollo de Software.
-- 🌐 Interesado en Desarrollo Web, Inteligencia Artificial y Ciencia de Datos.
+- 📚 Ingeniero de Software en constante aprendizaje y mejora en el Desarrollo de Software.
+- 💻 Enfocado en Desarrollo Web Backend y Fronted.
+- 🌐 Interesado en Desarrollo Web, Móvil, Odoo e Inteligencia Artificial.
+- 🔧 Actualmente trabajando con Odoo para desarrollo de módulos, integraciones y personalizaciones.
 
 ## 🚀 Proyectos Destacados  
 
@@ -38,14 +37,15 @@ Plataforma de venta de boletos para eventos, fiestas y espectáculos.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Tecnologías
+### Frameworks y Tecnologías
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ### Gestión de Bases de Datos
 
@@ -65,10 +65,10 @@ Plataforma de venta de boletos para eventos, fiestas y espectáculos.
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-## 📊 Estadísticas de GitHub
+<!--## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=the-ppz&show_icons=true&theme=radical)
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ppz&layout=compact&theme=radical)
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ppz&layout=compact&theme=radical)-->
 
 ## 📫 ¿Quieres colaborar?
 
