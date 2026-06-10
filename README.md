@@ -1,83 +1,125 @@
-# ¡Hola! 👋 Soy Franklin
+<div align="center">
 
-Ingeniero de Software apasionado por construir soluciones innovadoras y eficientes. Este espacio lo uso para compartir proyectos, aprender y contribuir a la comunidad.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:714B67&height=200&section=header&text=Franklin%20Alvarez&fontSize=48&fontColor=F5F5F5&fontAlignY=38&desc=Software%20Engineer&descSize=16&descAlignY=58&descColor=B0A0BA)
 
-## 🧑‍💻 Sobre mí
+</div>
 
-- 📚 Ingeniero de Software en constante aprendizaje y mejora en el Desarrollo de Software.
-- 💻 Enfocado en Desarrollo Web Backend y Fronted.
-- 🌐 Interesado en Desarrollo Web, Móvil, Odoo e Inteligencia Artificial.
-- 🔧 Actualmente trabajando con Odoo para desarrollo de módulos, integraciones y personalizaciones.
+<div align="center">
 
-## 🚀 Proyectos Destacados  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-franklin--20--alvarez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-20-alvarez)
+[![X](https://img.shields.io/badge/X-@the__ppz-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/the_ppz)
+[![Instagram](https://img.shields.io/badge/Instagram-@the__ppz-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/the_ppz/)
+[![Email](https://img.shields.io/badge/Email-franklin.alvarez20@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:franklin.alvarez20@outlook.com)
 
-### 🌐 [SimpleCMS](#)
-Sistema de gestión de contenidos (CMS) diseñado para pequeñas empresas.  
-🔹 **Tecnologías usadas:** PHP, Bootstrap, MySQL.  
-🔹 **Características clave:** Gestión de usuarios, creación de publicaciones y manejo de permisos.  
+</div>
 
-### 🌱 [EcoRuta Registro](#)
-Software de gestión vehicular desarrollado para el Ministerio de Ambiente, Agua y Transición Ecológica.  
-🔹 **Tecnologías usadas:** Django, PostgreSQL.  
-🔹 **Características clave:** Registro de vehículos, actas y reportes personalizados.  
+---
 
-### 🎉 [Party Connect](#)
-Plataforma de venta de boletos para eventos, fiestas y espectáculos.  
-🔹 **Tecnologías usadas:** React, Django, PostgreSQL.  
-🔹 **Características clave:** Sistema para la venta de boletos y la administración de eventos.
+## Sobre mí
 
-## 🛠️ Habilidades Técnicas
+- 🔧 Desarrollo de módulos e integraciones en **Odoo**
+- 📱 Desarrollo de aplicaciones móviles con **Flutter**
+- 🌐 Desarrollo de aplicaciones web utilizando tecnologías como **Django, Vue.js y React**
+- 🚀 Interesado en arquitectura de software, automatización de procesos e inteligencia artificial
 
-### Lenguajes
+---
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+## Proyectos destacados
 
-### Frameworks y Tecnologías
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>SimpleCMS</h3>
+      <p>CMS para pequeñas empresas con gestión de usuarios, publicaciones y personalización.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>EcoRuta Registro</h3>
+      <p>Sistema de gestión vehicular para el Ministerio de Ambiente del Ecuador.</p><br>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Party Connect</h3>
+      <p>Plataforma de venta de boletos y administración de eventos.</p><br>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### Gestión de Bases de Datos
+## Stack técnico
 
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Lite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+**Lenguajes**
 
-### Herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=whit)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+**Frameworks & Tecnologías**
 
-<!--## 📊 Estadísticas de GitHub
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=the-ppz&show_icons=true&theme=radical)
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ppz&layout=compact&theme=radical)-->
+**Bases de Datos**
 
-## 📫 ¿Quieres colaborar?
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-Contáctame en:
+**Herramientas**
 
-[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-franklin.alvarez20%40outlook.com-blue?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:franklin.alvarez20@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklin%20Alvarez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/franklin-20-alvarez) <br>
-[![X](https://img.shields.io/badge/Twitter-@the_ppz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/the_ppz) 
-[![Instagram](https://img.shields.io/badge/Instagram-@the_ppz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/the_ppz/) <br> 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=the-ppz&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=B07CC6&icon_color=B07CC6&text_color=F5F5F5&border_color=333333&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-ppz&layout=compact&theme=dark&bg_color=0A0A0A&title_color=B07CC6&text_color=F5F5F5&border_color=333333" />
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=the-ppz&theme=dark&background=0A0A0A&ring=714B67&fire=B07CC6&currStreakLabel=F5F5F5&sideLabels=F5F5F5&dates=888888&border=333333)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:0A0A0A&height=100&section=footer)
+
+</div>
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ppz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
