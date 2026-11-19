@@ -1,0 +1,40 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="300"
+     viewBox="0 0 1200 300"
+     role="img"
+     aria-label="Franklin Alvarez - Software Engineer">
+
+  <rect width="1200" height="300" fill="#101820"/>
+
+  <rect x="570" y="49" width="60" height="4"
+        rx="2" fill="#64748B"/>
+
+  <text x="600" y="125"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="52" font-weight="700"
+        fill="#F8FAFC">
+    Franklin Alvarez
+  </text>
+
+  <text x="600" y="169"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="24"
+        fill="#CBD5E1">
+    Software Engineer
+  </text>
+
+  <line x1="350" y1="200" x2="850" y2="200"
+        stroke="#334155" stroke-width="1"/>
+
+  <text x="600" y="237"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="20"
+        fill="#94A3B8">
+    Backend Development · Odoo Developer · Mobile Applications
+  </text>
+
+</svg>
