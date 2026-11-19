@@ -35,7 +35,6 @@
 
 ---
 
-## Sobre mí
 
 Ingeniero de Software enfocado en el desarrollo de soluciones empresariales, integraciones de sistemas y aplicaciones multiplataforma.
 
@@ -45,7 +44,7 @@ También cuento con conocimientos en desarrollo web utilizando **Django, Vue.js 
 
 ---
 
-## Proyectos destacados
+## Proyectos Destacados
 
 <table>
   <tr>
@@ -92,9 +91,9 @@ También cuento con conocimientos en desarrollo web utilizando **Django, Vue.js 
 
 ---
 
-## Stack técnico
+## Stack Técnico
 
-### Lenguajes de programación
+### Lenguajes de Programación
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -104,7 +103,7 @@ También cuento con conocimientos en desarrollo web utilizando **Django, Vue.js 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### Frameworks y tecnologías
+### Frameworks y Tecnologías
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -116,7 +115,7 @@ También cuento con conocimientos en desarrollo web utilizando **Django, Vue.js 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-### Bases de datos
+### Bases de Datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -124,7 +123,7 @@ También cuento con conocimientos en desarrollo web utilizando **Django, Vue.js 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Cloud_Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
-### Herramientas y entornos
+### Herramientas y Entornos
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
